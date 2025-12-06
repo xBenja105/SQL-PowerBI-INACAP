@@ -21,6 +21,8 @@ El repositorio incluye:
 
 ## 🏗️ Arquitectura del proyecto
 
+<img width="920" height="681" alt="imagen" src="https://github.com/user-attachments/assets/78e75ae6-6b91-449e-866b-3f69380a46f2" />
+
 ### **1. Base de datos en SQL Server**
 - Creación de tablas con claves primarias y foráneas.
 - Definición de entidades: clientes, empleados, productos/servicios, transacciones, etc.
@@ -28,7 +30,6 @@ El repositorio incluye:
 - Estructura diseñada para análisis descriptivo y exploratorio.
 
 <img width="250" height="306" alt="imagen" src="https://github.com/user-attachments/assets/65577177-6f3d-4b18-9ee7-43c00e7b2095" />
-
 
 ### **2. ETL con Power Query (Power BI)**
 - Conexión directa a SQL Server.
@@ -48,7 +49,6 @@ Incluye:
 - visualizaciones diseñadas para comprensión rápida
 
 ![AquaSafe_page-0001](https://github.com/user-attachments/assets/a12fdf10-82f1-4cdd-9285-2d29f6d53432)
-
 
 ## 🚀 Cómo ejecutar este proyecto
 
