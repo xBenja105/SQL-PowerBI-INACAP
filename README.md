@@ -90,7 +90,6 @@ Esto generará todas las tablas y poblará los datos automáticamente.
 
 ## 📌 Posibles mejoras futuras
 - Separar el script SQL en `01_schema.sql` y `02_data.sql`.
-- Añadir un diagrama entidad-relación en formato `.png`.
 - Construir medidas DAX adicionales.
 - Crear un informe más avanzado con storytelling.
 
