@@ -27,6 +27,9 @@ El repositorio incluye:
 - Inserción de datos mediante scripts SQL incluidos en `DB_Scripts.sql`.
 - Estructura diseñada para análisis descriptivo y exploratorio.
 
+<img width="250" height="306" alt="imagen" src="https://github.com/user-attachments/assets/65577177-6f3d-4b18-9ee7-43c00e7b2095" />
+
+
 ### **2. ETL con Power Query (Power BI)**
 - Conexión directa a SQL Server.
 - Limpieza de datos:
